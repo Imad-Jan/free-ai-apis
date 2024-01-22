@@ -4,7 +4,7 @@ This repository contains a list of free to use APIs for several AI models.
 
 **Thanks to [FMHY for featuring](https://fmhy.pages.dev/ai/) this repository!**
 
-
+https://colab.research.google.com/drive/1Fk9um3Af_aV0WvavD01gVljPHAxzQNLp?usp=sharing#scrollTo=q9AeO9cDRqMj
 ***
 > [!WARNING]  
 > We are not endorsing *any* of the listed services! Some of them might be considered controversial. We are not responsible for any legal, technical or any other damage caused by using the listed services. Data is provided without warranty of any kind. **Use these at your own risk!**
